@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background: #b80892;
+    color: white;
+    padding-top: 50px;
+}
+
+select, button {
+    padding: 10px;
+    font-size: 16px;
+}
+
+h3 { 
+    margin-top: 20px;
+    background: pink;
+    color: black;
+    padding: 15px;
+    border-radius: 8px;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mood Activity Helper</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <h1>Mood Activity Helper</h1>
+    <p>Select your mood</p>
+
+    <form method="POST">
+        <select name="mood" id="mood" required onfocus="clearResult()">
+            <option value="">-- Select your mood --</option>
+            <option value="happy">😊 Happy</option>
+            <option value="sad">😔 Sad</option>
+            <option value="angry">😡 Angry</option>
+            <option value="bored">😑 Bored</option>
+            <option value="tired">😴 Tired</option>
+            <option value="stressed">😰 Stressed</option>
+            <option value="Excited">🤩 Excited</option>
+            <option value="Lonely">😔 Lonely</option>
+        </select>
+
+        <br><br>
+        <button type="submit">Get Suggestion</button>
+    </form>
+
+    <h3 id="result">{% if result %}{{ result|safe }}{% endif %}</h3>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
