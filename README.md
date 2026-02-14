@@ -65,23 +65,22 @@ Run commands - python app.py
 ## Project Documentation
 
 #### Screenshots (Add at least 3)
-
+![prgmtoweb](1.png)
 programme modified into website
-
+![python](2.png)
 python code
-
+![html](3.png)
 html code
 
 #### Diagrams
 
 **System Architecture:**
-
-*Explain your system architecture - components, data flow, tech stack interaction*
+![sysarch](4.png)
+Request-Analyse mood-Generate result-Render output
 
 **Application Workflow:**
-
-*Add caption explaining your workflow*
-
+![appwork](5.png)
+Browser request are processed through routing and rendered via templates
 ---
 
 ## Project Demo
@@ -110,5 +109,6 @@ This project is licensed under the [MIT] License - see the [LICENSE](LICENSE) fi
 ---
 
 Made with ❤️ at TinkerHub
+
 
 
