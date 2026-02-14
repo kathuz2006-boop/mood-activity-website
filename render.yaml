@@ -1,1 +1,11 @@
 
+services:
+  - type: web
+    name: mood-app
+    env: python
+    region: oregon          # you can change to your preferred region
+    plan: free              # free tier; change if you need paid
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python app.py"
+    autoDeploy: true
+    branch: main            # deploy from this branch
