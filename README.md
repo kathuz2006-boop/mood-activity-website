@@ -2,7 +2,7 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# MOOD ACTIVITY WEBSITE 🎯
 
 ## Basic Details
 
@@ -103,8 +103,8 @@ html code
 
 ## Team Contributions
 
-- Kathu:specific contributions -e.g.,end development, API integration, etc.]
-- Navya S Kumar :specific contribution-
+- Kathu:specific contributions -functionms
+- Navya S Kumar :specific contribution-UI
 
 ---
 
@@ -115,3 +115,4 @@ This project is licensed under the [MIT] License - see the [LICENSE](LICENSE) fi
 ---
 
 Made with ❤️ at TinkerHub
+
