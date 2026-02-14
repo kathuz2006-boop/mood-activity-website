@@ -2,7 +2,7 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# MOOD ACTIVITY WEBSITE 🎯
+# [Project Name] 🎯
 
 ## Basic Details
 
@@ -13,7 +13,7 @@
 - Member 2: Navya S Kumar - College Of Engineering And Managment Punnapra
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://kathuz.pythonanywhere.com/
 
 ### Project Description
 This is a mood based activity
@@ -65,39 +65,46 @@ Run commands - python app.py
 ## Project Documentation
 
 #### Screenshots (Add at least 3)
-![prgmtoweb](1.png)
+
+![Screenshot1c:\Users\KATHU\Pictures\Screenshots\Screenshot 2026-02-14 072511.png](website)
 programme modified into website
-![python](2.png)
+
+![Screenshot2c:\Users\KATHU\Pictures\Screenshots\Screenshot 2026-02-14 072942.png](python code)
 python code
-![html](3.png)
+
+![Screenshot3c:\Users\KATHU\Pictures\Screenshots\Screenshot 2026-02-14 073141.png](html code)
 html code
 
 #### Diagrams
 
 **System Architecture:**
-![sysarch](4.png)
-Request-Analyse mood-Generate result-Render output
+
+![Architecture Diagramc:\Users\KATHU\Pictures\Screenshots\Screenshot 2026-02-14 080051.png](image.png)](docs/architecture.png)
+*Explain your system architecture - components, data flow, tech stack interaction*
 
 **Application Workflow:**
-![appwork](5.png)
-Browser request are processed through routing and rendered via templates
+
+![Workflowc:\Users\KATHU\Pictures\Screenshots\flowchart.png](docs/workflow.png)
+*Add caption explaining your workflow*
+
 ---
 
 ## Project Demo
 
 ### Video
+<video controls src="Mood Activity Helper - Google Chrome 2026-02-14 08-16-41.mp4" title="Title"></video>
 
-https://drive.google.com/file/d/1oAsljAvR8FqhRNvPTX5P6GyO7ZANn5zc/view?usp=sharing
-it detect your mood and suggest simple activities,quotes and tip to better feel
+*Explain what the video demonstrates - key features, user flow, technical highlights*
+
 ### Additional Demos
-https://drive.google.com/file/d/1oAsljAvR8FqhRNvPTX5P6GyO7ZANn5zc/view?usp=sharing
-Amood based platform that turns emotions into positive actions
+<video controls src="Mood Activity Helper - Google Chrome 2026-02-14 08-16-41-1.mp4" title="Title"></video>
+
 ---
 
 ## Team Contributions
 
-- Kathu:specific contributions -functionms
-- Navya S Kumar :specific contribution-UI
+- Kathu:specific contributions -e.g.,end development, API integration, etc.]
+- Navya S Kumar :specific contribution-
 
 ---
 
@@ -108,7 +115,3 @@ This project is licensed under the [MIT] License - see the [LICENSE](LICENSE) fi
 ---
 
 Made with ❤️ at TinkerHub
-
-
-
-
