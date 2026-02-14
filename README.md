@@ -66,25 +66,20 @@ Run commands - python app.py
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1c:\Users\KATHU\Pictures\Screenshots\Screenshot 2026-02-14 072511.png](website)
 programme modified into website
 
-![Screenshot2c:\Users\KATHU\Pictures\Screenshots\Screenshot 2026-02-14 072942.png](python code)
 python code
 
-![Screenshot3c:\Users\KATHU\Pictures\Screenshots\Screenshot 2026-02-14 073141.png](html code)
 html code
 
 #### Diagrams
 
 **System Architecture:**
 
-![Architecture Diagramc:\Users\KATHU\Pictures\Screenshots\Screenshot 2026-02-14 080051.png](image.png)](docs/architecture.png)
 *Explain your system architecture - components, data flow, tech stack interaction*
 
 **Application Workflow:**
 
-![Workflowc:\Users\KATHU\Pictures\Screenshots\flowchart.png](docs/workflow.png)
 *Add caption explaining your workflow*
 
 ---
@@ -115,4 +110,5 @@ This project is licensed under the [MIT] License - see the [LICENSE](LICENSE) fi
 ---
 
 Made with ❤️ at TinkerHub
+
 
