@@ -38,7 +38,5 @@ def index():
 
 
 if __name__ == "__main__":
-    # Use the port Render gives you
-    port = int(os.environ.get("PORT", 5000))  # fallback to 5000 for local testing
+    port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
-
