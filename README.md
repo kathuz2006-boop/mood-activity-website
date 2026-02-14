@@ -86,13 +86,12 @@ Browser request are processed through routing and rendered via templates
 ## Project Demo
 
 ### Video
-<video controls src="Mood Activity Helper - Google Chrome 2026-02-14 08-16-41.mp4" title="Title"></video>
 
-*Explain what the video demonstrates - key features, user flow, technical highlights*
-
+https://drive.google.com/file/d/1oAsljAvR8FqhRNvPTX5P6GyO7ZANn5zc/view?usp=sharing
+it detect your mood and suggest simple activities,quotes and tip to better feel
 ### Additional Demos
-<video controls src="Mood Activity Helper - Google Chrome 2026-02-14 08-16-41-1.mp4" title="Title"></video>
-
+https://drive.google.com/file/d/1oAsljAvR8FqhRNvPTX5P6GyO7ZANn5zc/view?usp=sharing
+Amood based platform that turns emotions into positive actions
 ---
 
 ## Team Contributions
@@ -109,6 +108,7 @@ This project is licensed under the [MIT] License - see the [LICENSE](LICENSE) fi
 ---
 
 Made with ❤️ at TinkerHub
+
 
 
 
